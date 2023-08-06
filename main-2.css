@@ -1,0 +1,72 @@
+body{
+    background-color: yellow;
+}
+.war{
+    width: 1200px;
+    padding: 120px;
+    box-sizing: border-box;
+    margin: 145px;
+}
+
+.col-1{
+    width: 100px;
+    height: 100px;
+    border: 1px solid white;
+    background-color: white;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    padding: 15px;
+    margin-left: 50px;
+    margin-top: 50px;
+    float: left;
+    box-shadow: 10px 10px 0 grey;
+
+}
+
+.col-2{
+    width: 100px;
+    height: 100px;
+    border: 1px solid pink;
+    background-color: pink;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    padding: 15px;
+    margin-left: 0;
+    margin-top: 50px;
+    float: left;
+    box-shadow: 10px 10px 0 grey;
+
+}
+.col-3{
+    width: 100px;
+    height: 100px;
+    border: 1px solid white;
+    background-color: white;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    padding: 15px;
+    margin-left: 50px;
+    margin-top: 50px;
+    float: left;
+    box-shadow: 10px 10px 0 grey;
+
+}
+
+.col-4{
+    width: 100px;
+    height: 100px;
+    border: 1px solid #ccccccaaw;
+    background-color: #cccccc;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    padding: 15px;
+    margin-left: 0;
+    margin-top: 50px;
+    float: left;
+    box-shadow: 10px 10px 0 grey;
+
+}
